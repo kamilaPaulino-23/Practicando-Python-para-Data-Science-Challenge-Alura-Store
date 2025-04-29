@@ -1,4 +1,8 @@
-# 📊 Alura Store - Análisis de Tiendas para el Sr. Juan
+<p align="center">
+  <img src="Alura Store - Análisis de Datos.png" alt="Logo Alura Store" width="200">
+</p>
+
+📊 Alura Store - Análisis de Tiendas para el Sr. Juan
 
 Este proyecto fue desarrollado como parte del reto de ciencia de datos de **Alura Latam**, en el marco del curso de Introducción a Python. El objetivo principal fue analizar el rendimiento de cuatro tiendas operadas por el Sr. Juan, con el fin de recomendar cuál de ellas debería venderse, basándose en datos reales y visualizaciones efectivas.
 
